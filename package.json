@@ -1,0 +1,26 @@
+{
+  "name": "node_custom_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meet-cybage/node_demo_package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Meet Parikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meet-cybage/node_demo_package/issues"
+  },
+  "homepage": "https://github.com/meet-cybage/node_demo_package#readme",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
